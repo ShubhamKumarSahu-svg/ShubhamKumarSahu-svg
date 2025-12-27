@@ -6,13 +6,13 @@
   </a>
 
   <p>
-    <a href="mailto:shubhamkumarsahu@example.com">
+    <a href="mailto:shubhamisok@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <a href="https://linkedin.com/in/shubham-sahu-iiita">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+    <a href="https://leetcode.com/cGFpGoJZcU">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
     </a>
     <a href="https://instagram.com/YOUR_INSTAGRAM">
@@ -86,7 +86,7 @@
 
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamKumarSahu-svg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
 </div>
 
 ---
@@ -95,14 +95,14 @@
   <h2>🧠 Problem Solving (DSA)</h2>
   <p>I actively solve problems on LeetCode and CodeForces.</p>
   
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/cGFpGoJZcU?theme=dark&font=Fira%20Code&ext=heatmap" />
 </div>
 
 ---
 
 <div align="center">
   <h2>🐍 My Contribution History</h2>
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake contribution chart" width="100%" />
+  <img src="https://github.com/ShubhamKumarSahu-svg/ShubhamKumarSahu-svg/blob/output/github-contribution-grid-snake.svg" alt="snake contribution chart" width="100%" />
 </div>
 
 ---
