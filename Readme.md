@@ -1,141 +1,121 @@
-# Hi 👋, I'm **Shubham Kumar Sahu**
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Shubham%20Kumar%20Sahu&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20IIIT%20Allahabad%20%7C%20Web%20Wizard&descAlignY=55&descAlign=62" width="100%" />
 
-🚀 **Software Engineer | Web Developer | DSA Enthusiast**
-🎓 **IIIT Allahabad (IIIT-A)** | B.Tech (2024–2028)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Coding+the+Future+at+IIIT-A;Mastering+C%2B%2B+%26+Data+Structures;Building+Next.js+Applications;Linux+Power+User+(Arch);Problem+Solver+by+Day%2C+Developer+by+Night" alt="Typing SVG" />
+  </a>
 
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Web+Developer+%7C+DSA+Enthusiast;Next.js+%7C+React+%7C+Node.js;Building+Real-World+Scalable+Projects;Learning+Every+Day+%F0%9F%9A%80" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-* 🧠 Strong focus on **Data Structures & Algorithms**
-* 🌐 Passionate about **Full-Stack Web Development**
-* 🏗️ Love building **production-grade, scalable applications**
-* 🔍 Prefer **official docs over random tutorials**
-* 🧑‍🤝‍🧑 Active contributor & member of **Geekhaven (Web Dev Team)**
-* 🐧 Daily driver: **Linux (Arch-based setups)**
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="mailto:shubhamkumarsahu@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+  <p>
+    <a href="mailto:shubhamkumarsahu@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+    </a>
+    <a href="https://instagram.com/YOUR_INSTAGRAM">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </a>
+  </p>
+</div>
 
 ---
 
-## 🛠️ Tools I Use Daily
+<div align="center">
+  <h2>👨‍💻 The Developer Behind the Code</h2>
+</div>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" />
-  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" width="45" />
-</p>
-
----
-
-## ⚙️ Tech Stack
-
-### 🌐 Frontend
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" />
-</p>
-
-### 🧩 Backend
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45" />
-</p>
-
-### 🔐 Auth & APIs
-
-* Clerk Authentication
-* Google OAuth
-* Gmail API (read-only ingestion)
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>👋 Hi, I'm Shubham!</h3>
+      <p>I am a B.Tech student at the <b>Indian Institute of Information Technology, Allahabad (IIIT-A)</b>. I bridge the gap between complex algorithms and beautiful user interfaces.</p>
+      <br />
+      <ul>
+        <li>🔭 I’m currently working on <b>SubSentry & SIH Projects</b></li>
+        <li>🌱 I’m currently learning <b>System Design & Docker</b></li>
+        <li>👯 I’m looking to collaborate on <b>Open Source MERN Projects</b></li>
+        <li>💬 Ask me about <b>C++, Next.js, or Linux Ricing</b></li>
+        <li>⚡ Fun fact: <b>I use Arch Linux (btw) 🐧</b></li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔔 SubSentry
-
-**Subscription Management Dashboard**
-
-* Track recurring subscriptions & free trials
-* Gmail-based subscription detection
-* Monthly & yearly spending insights
-* Tech: **Next.js, Node.js, MongoDB, Clerk, Gmail API**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
+  <h2>🛠️ Arsenal & Technology</h2>
+  <br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,ts,bash&perline=9" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,redux,bootstrap,materialui&perline=9" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,github,vscode,linux,docker,postman,vercel&perline=10" />
+</div>
 
 ---
 
-## 🧠 Problem Solving & DSA
+<div align="center">
+  <h2>🚀 Featured Projects</h2>
+</div>
 
-* Solved **hundreds of problems** across platforms
-* Strong in:
-
-  * Dynamic Programming
-  * Graphs & Trees
-  * Recursion & Backtracking
-  * Binary Search & Greedy
-
----
-
-## 🧾 Development Philosophy
-
-> "Read docs. Break things. Fix them. Repeat."
-
-* Clean code > clever hacks
-* Scalable architecture over quick fixes
-* Debugging is a **skill**, not a burden
+| 🏆 Project | 📝 Description | 🧩 Tech Stack |
+| :--- | :--- | :--- |
+| **[🔔 SubSentry](#)** | A financial dashboard to track subscriptions. Integrates with **Gmail API** to auto-detect bills and utilizes **Clerk** for auth. | ![NextJS](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb) ![Gmail API](https://img.shields.io/badge/Gmail_API-red?style=flat-square&logo=gmail) |
+| **[🤖 SIH Intern Engine](#)** | AI-based recommendation engine for the PM Internship Scheme. Uses NLP to match candidates to roles. | ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python) ![ML](https://img.shields.io/badge/AI/ML-orange?style=flat-square) ![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react) |
+| **[⚡ Portfolio v2](#)** | High-performance personal site with **Framer Motion** animations and **GSAP**. | ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript) ![Tailwind](https://img.shields.io/badge/Tailwind-cyan?style=flat-square&logo=tailwindcss) |
 
 ---
 
-## 🏁 Fun Facts
+<div align="center">
+  <h2>📊 GitHub Analytics</h2>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <br/><br/>
 
-* 🐧 I enjoy customizing Linux systems
-* 📚 Prefer documentation over videos
-* 🌙 Most productive late at night
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="170" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" />
+  </div>
+
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
+</div>
 
 ---
 
-⭐ **If you like my work, consider starring my repositories!**
+<div align="center">
+  <h2>🧠 Problem Solving (DSA)</h2>
+  <p>I actively solve problems on LeetCode and CodeForces.</p>
+  
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" />
+</div>
+
+---
+
+<div align="center">
+  <h2>🐍 My Contribution History</h2>
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake contribution chart" width="100%" />
+</div>
+
+---
+
+<div align="center">
+  <h2>🤪 Developer Humor</h2>
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" width="600" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+  <br />
+  <i>"Talk is cheap. Show me the code." - Linus Torvalds</i>
+</div>
