@@ -76,28 +76,33 @@
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
 
+  <!-- Profile Trophy -->
   <img
-    src="https://github-profile-trophy.vercel.app/?username=ShubhamKumarSahu-svg&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"
+    src="https://github-profile-trophy.vercel.app/?username=ShubhamKumarSahu-svg&theme=tokyonight&no-frame=true&margin-w=15"
     width="100%"
   />
   <br/><br/>
 
+  <!-- GitHub Stats -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ShubhamKumarSahu-svg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true"
-    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=ShubhamKumarSahu-svg&show_icons=true&theme=tokyonight&hide_border=true"
+    height="165"
   />
 
+  <!-- Streak Stats -->
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamKumarSahu-svg&theme=tokyonight&hide_border=true&bg_color=0D1117"
-    height="170"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamKumarSahu-svg&theme=tokyonight&hide_border=true"
+    height="165"
   />
 
   <br/><br/>
 
+  <!-- Top Languages -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamKumarSahu-svg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamKumarSahu-svg&layout=compact&theme=tokyonight&hide_border=true"
   />
 </div>
+
 
 
 ---
