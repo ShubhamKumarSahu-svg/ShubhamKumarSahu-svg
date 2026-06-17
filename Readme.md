@@ -65,13 +65,6 @@
   <h2>🚀 Featured Projects</h2>
 </div>
 
-| 🏆 Project | 📝 Description | 🧩 Tech Stack |
-| :--- | :--- | :--- |
-| **[🔔 SubSentry](#)** | A financial dashboard to track subscriptions. Integrates with **Gmail API** to auto-detect bills and utilizes **Clerk** for auth. | ![NextJS](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb) ![Gmail API](https://img.shields.io/badge/Gmail_API-red?style=flat-square&logo=gmail) |
-| **[🤖 SIH Intern Engine](#)** | AI-based recommendation engine for the PM Internship Scheme. Uses NLP to match candidates to roles. | ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python) ![ML](https://img.shields.io/badge/AI/ML-orange?style=flat-square) ![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react) |
-| **[⚡ Portfolio v2](#)** | High-performance personal site with **Framer Motion** animations and **GSAP**. | ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript) ![Tailwind](https://img.shields.io/badge/Tailwind-cyan?style=flat-square&logo=tailwindcss) |
-
----
 
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
