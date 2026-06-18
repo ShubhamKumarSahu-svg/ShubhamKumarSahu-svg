@@ -1,130 +1,380 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Shubham%20Kumar%20Sahu&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20IIIT%20Allahabad%20%7C%20Web%20Wizard&descAlignY=55&descAlign=62" width="100%" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Coding+the+Future+at+IIIT-A;Mastering+C%2B%2B+%26+Data+Structures;Building+Next.js+Applications;Linux+Power+User+(Arch);Problem+Solver+by+Day%2C+Developer+by+Night" alt="Typing SVG" />
+# Shubham Kumar Sahu
+
+### Software Engineer • Full Stack Developer • AI Engineer
+
+Building AI systems, real-time applications, distributed platforms, and developer tools.
+
+<p>
+  <a href="mailto:shubhamisok@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
+  <a href="https://github.com/ShubhamKumarSahu-svg">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://linkedin.com/in/shubham-sahu-iiita">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://leetcode.com/cGFpGoJZcU">
+    <img src="https://img.shields.io/badge/LeetCode-600%2B_Problems-orange?style=for-the-badge&logo=leetcode">
+  </a>
+</p>
 
-  <p>
-    <a href="mailto:shubhamisok@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="https://linkedin.com/in/shubham-sahu-iiita">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://leetcode.com/cGFpGoJZcU">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
-    </a>
-    <a href="https://instagram.com/YOUR_INSTAGRAM">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-    </a>
-  </p>
 </div>
 
 ---
 
+# About Me
+
+I'm a B.Tech Information Technology student at **IIIT Allahabad**.
+
+My interests sit at the intersection of:
+
+- Artificial Intelligence
+- Distributed Systems
+- Real-Time Communication
+- Full Stack Engineering
+- Developer Tooling
+- Cyber Security
+
+I enjoy building products that solve real problems while exploring how large-scale systems are designed and operated.
+
+---
+
+# What I'm Working On
+
+### Current Focus
+
+- AI Agents
+- LangGraph Workflows
+- System Design
+- Distributed Systems
+- Docker & Infrastructure
+- Open Source
+
+### Currently Building
+
+- Dienvo (AI Voice Learning Platform)
+- Loomin (Multi-Agent AI Workspace)
+- Project Setu
+- Open Source Contributions
+
+---
+
+# Featured Projects
+
+## CoffeeShare
+
+### P2P Encrypted File Sharing Platform
+
+A distributed file-sharing application powered by WebRTC.
+
+#### Highlights
+
+- Browser-to-browser file transfer
+- End-to-end encrypted communication
+- Multi-gigabyte transfers
+- Live media streaming
+- WebRTC multiplayer experiences
+
+#### Tech Stack
+
+```text
+Next.js
+React
+Node.js
+WebRTC
+PeerJS
+TailwindCSS
+```
+
+Repository:
+
+https://github.com/ShubhamKumarSahu-svg/CoffeeShare
+
+---
+
+## Dienvo
+
+### AI Voice Learning Platform
+
+A SaaS platform that allows students to learn through real-time conversations with AI tutors.
+
+#### Highlights
+
+- Voice AI
+- Real-time conversations
+- Custom AI companions
+- Learning analytics
+- Authentication & multi-user support
+
+#### Tech Stack
+
+```text
+Next.js
+TypeScript
+Supabase
+PostgreSQL
+Clerk
+Vapi
+WebRTC
+```
+
+Repository:
+
+https://github.com/ShubhamKumarSahu-svg/Dienvo
+
+---
+
+## AlphaLens
+
+### AI Trading Intelligence Platform
+
+Combines sentiment analysis, machine learning models, and AI reasoning to assist decision making.
+
+#### Tech Stack
+
+```text
+Next.js
+FastAPI
+Python
+PostgreSQL
+FinBERT
+XGBoost
+LLaMA
+```
+
+---
+
+## Loomin
+
+### Multi-Agent AI Workspace
+
+An orchestration platform for autonomous AI agents.
+
+#### Highlights
+
+- Agent collaboration
+- Workflow automation
+- Long-term memory
+- Human approval pipelines
+
+#### Tech Stack
+
+```text
+LangGraph
+LangChain
+TypeScript
+Redis
+PostgreSQL
+```
+
+Repository:
+
+https://github.com/ShubhamKumarSahu-svg/Loomin
+
+---
+
+## CursorCLI AI
+
+### Autonomous Coding Assistant
+
+A terminal-based AI assistant capable of reasoning, executing commands, and completing development tasks.
+
+#### Highlights
+
+- Tool calling
+- Command execution
+- Agent loops
+- Task automation
+
+#### Tech Stack
+
+```text
+Node.js
+Gemini
+CLI
+Automation
+```
+
+Repository:
+
+https://github.com/ShubhamKumarSahu-svg/my-own-cursor-ide-cli_version
+
+---
+
+## BroChat
+
+### Real-Time Messaging Platform
+
+Built with Socket.IO for instant communication and group messaging.
+
+#### Tech Stack
+
+```text
+React
+Node.js
+Express
+MongoDB
+Socket.IO
+```
+
+Repository:
+
+https://github.com/ShubhamKumarSahu-svg/bro-chat
+
+---
+
+# Technical Skills
+
+## Languages
+
+```text
+JavaScript
+TypeScript
+Python
+Java
+C++
+SQL
+```
+
+## Frontend
+
+```text
+React
+Next.js
+TailwindCSS
+Redux
+HTML
+CSS
+```
+
+## Backend
+
+```text
+Node.js
+Express.js
+FastAPI
+REST APIs
+Socket.IO
+```
+
+## Databases
+
+```text
+MongoDB
+PostgreSQL
+Redis
+Supabase
+```
+
+## AI & ML
+
+```text
+LangChain
+LangGraph
+OpenAI
+Gemini
+LLaMA
+FinBERT
+XGBoost
+AI Agents
+Prompt Engineering
+```
+
+## Infrastructure
+
+```text
+Linux
+Docker
+Git
+GitHub
+Vercel
+```
+
+---
+
+# Achievements
+
+### Open Source
+
+- OpenCode Mentor
+- Mentored 20+ contributors
+- Reviewed 50+ pull requests
+
+### Cyber Security
+
+- 3rd Overall in India
+- Cyber Geekhaven Capture The Flag Competition
+
+### Problem Solving
+
+- 600+ DSA Problems Solved
+- LeetCode
+- Codeforces
+- InterviewBit
+
+### Hackathons
+
+- Finalist in 5+ Hackathons
+
+---
+
+# Leadership & Community
+
+### OpenCode
+
+Mentoring contributors and reviewing pull requests.
+
+### Geekhaven
+
+Core contributor to multiple web development projects.
+
+### NCC
+
+Participated in national-level camps and leadership activities.
+
+---
+
+# GitHub Statistics
+
 <div align="center">
-  <h2>👨‍💻 The Developer Behind the Code</h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ShubhamKumarSahu-svg&show_icons=true&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamKumarSahu-svg&theme=tokyonight" height="170"/>
+
 </div>
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h3>👋 Hi, I'm Shubham!</h3>
-      <p>I am a B.Tech student at the <b>Indian Institute of Information Technology, Allahabad (IIIT-A)</b>. I bridge the gap between complex algorithms and beautiful user interfaces.</p>
-      <br />
-      <ul>
-        <li>🔭 I’m currently working on <b>SubSentry & SIH Projects</b></li>
-        <li>🌱 I’m currently learning <b>System Design & Docker</b></li>
-        <li>👯 I’m looking to collaborate on <b>Open Source MERN Projects</b></li>
-        <li>💬 Ask me about <b>C++, Next.js, or Linux Ricing</b></li>
-        <li>⚡ Fun fact: <b>I use Arch Linux (btw) 🐧</b></li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
-    </td>
-  </tr>
-</table>
+---
+
+# LeetCode
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/cGFpGoJZcU?theme=dark&font=Fira%20Code&ext=heatmap"/>
+
+</div>
+
+---
+
+# Philosophy
+
+> Build things.
+>
+> Break things.
+>
+> Understand why they broke.
+>
+> Build them better.
 
 ---
 
 <div align="center">
-  <h2>🛠️ Arsenal & Technology</h2>
-  <br>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,ts,bash&perline=9" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,redux,bootstrap,materialui&perline=9" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,github,vscode,linux,docker,postman,vercel&perline=10" />
-</div>
 
----
+### Thanks for visiting
 
-<div align="center">
-  <h2>🚀 Featured Projects</h2>
-</div>
+If any project interests you, feel free to reach out.
 
-
-<div align="center">
-  <h2>📊 GitHub Analytics</h2>
-
-  <!-- Profile Trophy -->
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=ShubhamKumarSahu-svg&theme=tokyonight&no-frame=true&margin-w=15"
-    width="100%"
-  />
-  <br/><br/>
-
-  <!-- GitHub Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ShubhamKumarSahu-svg&show_icons=true&theme=tokyonight&hide_border=true"
-    height="165"
-  />
-
-  <!-- Streak Stats -->
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamKumarSahu-svg&theme=tokyonight&hide_border=true"
-    height="165"
-  />
-
-  <br/><br/>
-
-  <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamKumarSahu-svg&layout=compact&theme=tokyonight&hide_border=true"
-  />
-</div>
-
-
-
----
-
-<div align="center">
-  <h2>🧠 Problem Solving (DSA)</h2>
-  <p>I actively solve problems on LeetCode and CodeForces.</p>
-  
-  <img src="https://leetcard.jacoblin.cool/cGFpGoJZcU?theme=dark&font=Fira%20Code&ext=heatmap" />
-</div>
-
----
-
-<div align="center">
-  <h2>🐍 My Contribution History</h2>
-  <img src="https://github.com/ShubhamKumarSahu-svg/ShubhamKumarSahu-svg/blob/output/github-contribution-grid-snake.svg" alt="snake contribution chart" width="100%" />
-</div>
-
----
-
-<div align="center">
-  <h2>🤪 Developer Humor</h2>
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" width="600" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
-  <br />
-  <i>"Talk is cheap. Show me the code." - Linus Torvalds</i>
 </div>
