@@ -1,353 +1,171 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&text=Shubham%20Kumar%20Sahu&fontSize=70&fontAlignY=38&desc=Software%20Engineer%20•%20AI%20Engineer%20•%20Full%20Stack%20Developer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&text=Shubham%20Kumar%20Sahu&fontSize=75&fontAlignY=38&desc=Software%20Engineer%20•%20AI%20Engineer%20•%20Full%20Stack%20Developer&descAlignY=60"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=900&lines=Building+AI+Systems;Designing+Distributed+Platforms;Creating+Real-Time+Applications;Open+Source+Mentor;IIIT+Allahabad"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Building+AI+Systems;Designing+Distributed+Platforms;Creating+Real-Time+Applications;Open+Source+Mentor;IIIT+Allahabad"/>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=ShubhamKumarSahu-svg&style=for-the-badge"/>
 
-<a href="mailto:shubhamisok@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/shubham-sahu-iiita">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/cGFpGoJZcU">
-<img src="https://img.shields.io/badge/LeetCode-600%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://github.com/ShubhamKumarSahu-svg">
 <img src="https://img.shields.io/github/followers/ShubhamKumarSahu-svg?style=for-the-badge"/>
-</a>
+
+<img src="https://img.shields.io/github/stars/ShubhamKumarSahu-svg?style=for-the-badge"/>
 
 </div>
 
 ---
 
+# 👨‍💻 About Me
+
+```cpp
+Name        : Shubham Kumar Sahu
+Education   : IIIT Allahabad
+Role        : Software Engineer
+Focus       : AI Systems & Full Stack Engineering
+Experience  : Open Source Mentor
+OS          : Arch Linux
+```
+
+---
+
 # 🚀 Featured Projects
 
-<table>
-<tr>
+<a href="https://github.com/ShubhamKumarSahu-svg/CoffeeShare">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:8B5CF6,100:0F172A&text=☕%20CoffeeShare&fontColor=ffffff&fontSize=40"/>
+</a>
 
-<td width="50%">
+### P2P Encrypted File Sharing Platform
 
-## ☕ CoffeeShare
-
-### P2P File Sharing Platform
-
-🌐 Browser-to-Browser Transfers
-
-🔒 End-to-End Encryption
-
-⚡ Multi-GB File Transfer
-
-🎥 Live Media Streaming
-
-🎮 Multiplayer Experiences
+🔒 End-to-End Encryption • ⚡ Multi-GB Transfers • 🌐 WebRTC • 🎥 Live Streaming • 🎮 Multiplayer Features
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind"/>
 
-**WebRTC • PeerJS**
+---
 
-<a href="https://github.com/ShubhamKumarSahu-svg/CoffeeShare">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+<a href="https://dienvo.vercel.app">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:2563EB,100:0F172A&text=🎙️%20Dienvo&fontColor=ffffff&fontSize=40"/>
 </a>
-
-</td>
-
-<td width="50%">
-
-## 🎙️ Dienvo
 
 ### AI Voice Learning Platform
 
-🎤 Voice Conversations
-
-🧠 AI Tutors
-
-📚 Personalized Learning
-
-⚡ Real-Time AI
-
-👥 Multi User
+🎤 Voice Conversations • 🧠 AI Tutors • 📚 Personalized Learning • ⚡ Real-Time AI
 
 <img src="https://skillicons.dev/icons?i=nextjs,typescript,postgresql"/>
 
-**Supabase • Clerk • Vapi**
+---
 
-<a href="https://dienvo.vercel.app">
-<img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel"/>
+<a href="#">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:9333EA,100:0F172A&text=🤖%20Loomin&fontColor=ffffff&fontSize=40"/>
 </a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 🤖 Loomin
 
 ### Multi-Agent AI Workspace
 
-🧠 Autonomous Agents
+🧠 Autonomous Agents • 🔄 Workflow Automation • 💾 Long-Term Memory • 👥 Human Approval Flows
 
-🔄 Workflow Automation
+<img src="https://skillicons.dev/icons?i=nodejs,typescript,postgresql,redis"/>
 
-💾 Long-Term Memory
+---
 
-👥 Human Approval Flows
-
-⚡ Agent Collaboration
-
-<img src="https://skillicons.dev/icons?i=typescript,nodejs,postgresql,redis"/>
-
-**LangGraph • LangChain**
-
-</td>
-
-<td width="50%">
-
-## 📈 AlphaLens
+<a href="#">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:10B981,100:0F172A&text=📈%20AlphaLens&fontColor=ffffff&fontSize=40"/>
+</a>
 
 ### AI Trading Platform
 
-📊 Market Intelligence
-
-🤖 AI Reasoning
-
-📈 Price Prediction
-
-💹 Sentiment Analysis
-
-⚡ Trading Assistance
+📊 Market Intelligence • 🤖 AI Reasoning • 📈 Price Prediction • 💹 Sentiment Analysis
 
 <img src="https://skillicons.dev/icons?i=nextjs,python,postgresql"/>
 
-**FinBERT • XGBoost • LLaMA**
+---
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 💻 CursorCLI AI
+<a href="https://github.com/ShubhamKumarSahu-svg/my-own-cursor-ide-cli_version">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:F97316,100:0F172A&text=💻%20CursorCLI%20AI&fontColor=ffffff&fontSize=40"/>
+</a>
 
 ### Autonomous Coding Agent
 
-🛠 Tool Calling
-
-⚡ Command Execution
-
-🤖 AI Workflows
-
-📂 Code Generation
-
-🧠 Reasoning Engine
+🤖 AI Workflows • 🛠 Tool Calling • 📂 Code Generation • ⚡ Terminal Automation
 
 <img src="https://skillicons.dev/icons?i=nodejs,javascript"/>
 
-**Gemini • CLI**
+---
 
-</td>
+<a href="https://github.com/ShubhamKumarSahu-svg/bro-chat">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:EC4899,100:0F172A&text=💬%20BroChat&fontColor=ffffff&fontSize=40"/>
+</a>
 
-<td width="50%">
+### Real-Time Communication Platform
 
-## 💬 BroChat
-
-### Real-Time Chat Platform
-
-👤 One-to-One Chat
-
-👥 Group Chat
-
-📷 Media Sharing
-
-⚡ Socket.IO
-
-🔐 Authentication
+👤 Direct Messaging • 👥 Group Chats • 📷 Media Sharing • ⚡ Socket.IO
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb"/>
-
-</td>
-
-</tr>
-
-</table>
 
 ---
 
 # 🏆 Achievements
 
-<table>
-<tr>
+<div align="center">
 
-<td align="center" width="20%">
+<img src="https://img.shields.io/badge/🥉_3rd_Overall_India_CTF-gold?style=for-the-badge"/>
 
-### 🥉
+<img src="https://img.shields.io/badge/OpenCode-Mentor-blue?style=for-the-badge"/>
 
-### 3rd Overall
+<img src="https://img.shields.io/badge/600+-DSA_Problems-success?style=for-the-badge"/>
 
-Cyber Geekhaven
+<img src="https://img.shields.io/badge/50+-Pull_Requests-purple?style=for-the-badge"/>
 
-CTF India
+<img src="https://img.shields.io/badge/20+-Contributors-orange?style=for-the-badge"/>
 
-</td>
-
-<td align="center" width="20%">
-
-### 👨‍🏫
-
-### Mentor
-
-OpenCode
-
-Open Source
-
-</td>
-
-<td align="center" width="20%">
-
-### 💻
-
-### 600+
-
-DSA Problems
-
-Solved
-
-</td>
-
-<td align="center" width="20%">
-
-### 🔀
-
-### 50+
-
-Pull Requests
-
-Reviewed
-
-</td>
-
-<td align="center" width="20%">
-
-### 🚀
-
-### 20+
-
-Contributors
-
-Mentored
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
-# 💡 Engineering Domains
+# 🌎 Engineering Domains
 
-<table>
-<tr>
-<td align="center">🤖 AI Engineering</td>
-<td align="center">🌐 Full Stack</td>
-<td align="center">⚡ Real-Time Systems</td>
-</tr>
+<div align="center">
 
-<tr>
-<td align="center">🛰 Distributed Systems</td>
-<td align="center">🔒 Cyber Security</td>
-<td align="center">🌍 Open Source</td>
-</tr>
-</table>
+![AI](https://img.shields.io/badge/AI_Engineering-black?style=for-the-badge)
+
+![Distributed](https://img.shields.io/badge/Distributed_Systems-blue?style=for-the-badge)
+
+![Realtime](https://img.shields.io/badge/Real_Time_Systems-red?style=for-the-badge)
+
+![Fullstack](https://img.shields.io/badge/Full_Stack-green?style=for-the-badge)
+
+![Security](https://img.shields.io/badge/Cyber_Security-purple?style=for-the-badge)
+
+![OSS](https://img.shields.io/badge/Open_Source-orange?style=for-the-badge)
+
+</div>
 
 ---
 
-# 🛠 Technology Stack
+# ⚙️ Tech Arsenal
 
-<table>
-
-<tr>
-
-<td width="50%">
-
-## Languages
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,bash"/>
 
-</td>
-
-<td width="50%">
-
-## Frontend
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## Backend
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
 
-</td>
-
-<td width="50%">
-
-## Databases
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,supabase"/>
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## AI / ML
-
-<img src="https://img.shields.io/badge/LangGraph-black?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LangChain-green?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Gemini-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OpenAI-black?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LLaMA-purple?style=for-the-badge"/>
-
-</td>
-
-<td width="50%">
-
-## Infrastructure
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vercel"/>
 
-</td>
-
-</tr>
-
-</table>
+</div>
 
 ---
 
@@ -359,9 +177,9 @@ Mentored
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShubhamKumarSahu-svg&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ShubhamKumarSahu-svg&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamKumarSahu-svg&theme=tokyonight&hide_border=true" height="180"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamKumarSahu-svg&theme=tokyonight&hide_border=true"/>
 
 <br>
 
@@ -391,72 +209,58 @@ Mentored
 
 ---
 
-# 🐍 Contribution Snake
+# 🎯 Current Focus
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ShubhamKumarSahu-svg/ShubhamKumarSahu-svg/output/github-contribution-grid-snake-dark.svg"/>
+🚀 AI Agents
+
+⚡ Distributed Systems
+
+🌐 Full Stack Architecture
+
+🔒 Cyber Security
+
+🐳 Docker & DevOps
 
 </div>
 
 ---
 
-# 🎯 Current Goals
+# 🐍 Contribution Snake
 
-<table>
-<tr>
+<div align="center">
 
-<td align="center">
+<img width="100%" src="https://raw.githubusercontent.com/ShubhamKumarSahu-svg/ShubhamKumarSahu-svg/output/github-contribution-grid-snake-dark.svg"/>
 
-🤖
+</div>
 
-### AI Systems
+---
 
-</td>
+# 📫 Connect
 
-<td align="center">
+<div align="center">
 
-🏗️
+<a href="mailto:shubhamisok@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### System Design
+<a href="https://linkedin.com/in/shubham-sahu-iiita">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-</td>
+<a href="https://leetcode.com/cGFpGoJZcU">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
-<td align="center">
-
-🛰️
-
-### Distributed Systems
-
-</td>
-
-<td align="center">
-
-🌍
-
-### Open Source
-
-</td>
-
-<td align="center">
-
-🐳
-
-### Docker
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
 <div align="center">
 
-## ⚡ Philosophy
+### "Talk is cheap. Show me the code."
 
-### Build → Break → Learn → Repeat
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+— Linus Torvalds
 
 </div>
