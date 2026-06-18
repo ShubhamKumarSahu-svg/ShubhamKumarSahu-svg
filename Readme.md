@@ -1,92 +1,30 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Shubham%20Kumar%20Sahu&fontSize=65&fontAlignY=38&desc=Software%20Engineer%20•%20AI%20Engineer%20•%20Full%20Stack%20Developer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&text=Shubham%20Kumar%20Sahu&fontSize=70&fontAlignY=38&desc=Software%20Engineer%20•%20AI%20Engineer%20•%20Full%20Stack%20Developer&descAlignY=60"/>
 
-# 👋 Hey, I'm Shubham
+<br>
 
-### Building AI Systems • Distributed Platforms • Real-Time Applications
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=900&lines=Building+AI+Systems;Designing+Distributed+Platforms;Creating+Real-Time+Applications;Open+Source+Mentor;IIIT+Allahabad"/>
 
-<p>
-  <a href="mailto:shubhamisok@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<br><br>
 
-  <a href="https://linkedin.com/in/shubham-sahu-iiita">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<img src="https://komarev.com/ghpvc/?username=ShubhamKumarSahu-svg&style=for-the-badge"/>
 
-  <a href="https://leetcode.com/cGFpGoJZcU">
-    <img src="https://img.shields.io/badge/LeetCode-600%2B%20Problems-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
-  </a>
+<a href="mailto:shubhamisok@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  <a href="https://github.com/ShubhamKumarSahu-svg">
-    <img src="https://img.shields.io/github/followers/ShubhamKumarSahu-svg?style=for-the-badge"/>
-  </a>
-</p>
+<a href="https://linkedin.com/in/shubham-sahu-iiita">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-</div>
+<a href="https://leetcode.com/cGFpGoJZcU">
+<img src="https://img.shields.io/badge/LeetCode-600%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
----
-
-# 🚀 About Me
-
-```cpp
-class Shubham {
-public:
-    string education =
-        "B.Tech IT @ IIIT Allahabad";
-
-    vector<string> interests = {
-        "AI Engineering",
-        "Distributed Systems",
-        "Full Stack Development",
-        "System Design",
-        "Cyber Security"
-    };
-
-    string currentlyBuilding =
-        "Dienvo • Loomin • Project Setu";
-
-    string operatingSystem =
-        "Arch Linux";
-};
-```
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-![CTF](https://img.shields.io/badge/🥉_3rd_Overall_India-CTF-gold?style=for-the-badge)
-
-![Mentor](https://img.shields.io/badge/OpenCode-Mentor-blue?style=for-the-badge)
-
-![DSA](https://img.shields.io/badge/600+-DSA_Problems-success?style=for-the-badge)
-
-![PR](https://img.shields.io/badge/50+-Pull_Requests-purple?style=for-the-badge)
-
-![Contributors](https://img.shields.io/badge/20+-Contributors_Mentored-red?style=for-the-badge)
-
-</div>
-
----
-
-# 💡 Engineering Domains
-
-<div align="center">
-
-![AI](https://img.shields.io/badge/AI_Engineering-black?style=for-the-badge)
-
-![Distributed](https://img.shields.io/badge/Distributed_Systems-blue?style=for-the-badge)
-
-![Realtime](https://img.shields.io/badge/Real_Time_Systems-red?style=for-the-badge)
-
-![Fullstack](https://img.shields.io/badge/Full_Stack-success?style=for-the-badge)
-
-![Security](https://img.shields.io/badge/Cyber_Security-purple?style=for-the-badge)
-
-![OSS](https://img.shields.io/badge/Open_Source-orange?style=for-the-badge)
+<a href="https://github.com/ShubhamKumarSahu-svg">
+<img src="https://img.shields.io/github/followers/ShubhamKumarSahu-svg?style=for-the-badge"/>
+</a>
 
 </div>
 
@@ -101,15 +39,25 @@ public:
 
 ## ☕ CoffeeShare
 
-### P2P Encrypted File Sharing
+### P2P File Sharing Platform
 
-Direct browser-to-browser file sharing powered by WebRTC.
+🌐 Browser-to-Browser Transfers
+
+🔒 End-to-End Encryption
+
+⚡ Multi-GB File Transfer
+
+🎥 Live Media Streaming
+
+🎮 Multiplayer Experiences
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind"/>
 
-**WebRTC • PeerJS • Encryption**
+**WebRTC • PeerJS**
 
-[Repository](https://github.com/ShubhamKumarSahu-svg/CoffeeShare)
+<a href="https://github.com/ShubhamKumarSahu-svg/CoffeeShare">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
 
@@ -119,13 +67,23 @@ Direct browser-to-browser file sharing powered by WebRTC.
 
 ### AI Voice Learning Platform
 
-Learn through conversations with AI tutors.
+🎤 Voice Conversations
+
+🧠 AI Tutors
+
+📚 Personalized Learning
+
+⚡ Real-Time AI
+
+👥 Multi User
 
 <img src="https://skillicons.dev/icons?i=nextjs,typescript,postgresql"/>
 
 **Supabase • Clerk • Vapi**
 
-[Live Demo](https://dienvo.vercel.app)
+<a href="https://dienvo.vercel.app">
+<img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel"/>
+</a>
 
 </td>
 
@@ -135,31 +93,45 @@ Learn through conversations with AI tutors.
 
 <td width="50%">
 
-## 📈 AlphaLens
-
-### AI Trading Intelligence
-
-Sentiment analysis and ML-powered market insights.
-
-<img src="https://skillicons.dev/icons?i=nextjs,python,postgresql"/>
-
-**FinBERT • XGBoost • LLaMA**
-
-</td>
-
-<td width="50%">
-
 ## 🤖 Loomin
 
 ### Multi-Agent AI Workspace
 
-Autonomous agents working together through orchestrated workflows.
+🧠 Autonomous Agents
+
+🔄 Workflow Automation
+
+💾 Long-Term Memory
+
+👥 Human Approval Flows
+
+⚡ Agent Collaboration
 
 <img src="https://skillicons.dev/icons?i=typescript,nodejs,postgresql,redis"/>
 
 **LangGraph • LangChain**
 
-[Repository](https://github.com/ShubhamKumarSahu-svg/Loomin)
+</td>
+
+<td width="50%">
+
+## 📈 AlphaLens
+
+### AI Trading Platform
+
+📊 Market Intelligence
+
+🤖 AI Reasoning
+
+📈 Price Prediction
+
+💹 Sentiment Analysis
+
+⚡ Trading Assistance
+
+<img src="https://skillicons.dev/icons?i=nextjs,python,postgresql"/>
+
+**FinBERT • XGBoost • LLaMA**
 
 </td>
 
@@ -173,13 +145,19 @@ Autonomous agents working together through orchestrated workflows.
 
 ### Autonomous Coding Agent
 
-AI assistant capable of reasoning and executing terminal commands.
+🛠 Tool Calling
+
+⚡ Command Execution
+
+🤖 AI Workflows
+
+📂 Code Generation
+
+🧠 Reasoning Engine
 
 <img src="https://skillicons.dev/icons?i=nodejs,javascript"/>
 
-**Gemini • CLI • Tool Calling**
-
-[Repository](https://github.com/ShubhamKumarSahu-svg/my-own-cursor-ide-cli_version)
+**Gemini • CLI**
 
 </td>
 
@@ -187,15 +165,19 @@ AI assistant capable of reasoning and executing terminal commands.
 
 ## 💬 BroChat
 
-### Real-Time Messaging Platform
+### Real-Time Chat Platform
 
-Full-stack communication platform built using Socket.IO.
+👤 One-to-One Chat
+
+👥 Group Chat
+
+📷 Media Sharing
+
+⚡ Socket.IO
+
+🔐 Authentication
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb"/>
-
-**Realtime • Groups • Media Sharing**
-
-[Repository](https://github.com/ShubhamKumarSahu-svg/bro-chat)
 
 </td>
 
@@ -205,65 +187,167 @@ Full-stack communication platform built using Socket.IO.
 
 ---
 
-# 🛠 Tech Stack
+# 🏆 Achievements
+
+<table>
+<tr>
+
+<td align="center" width="20%">
+
+### 🥉
+
+### 3rd Overall
+
+Cyber Geekhaven
+
+CTF India
+
+</td>
+
+<td align="center" width="20%">
+
+### 👨‍🏫
+
+### Mentor
+
+OpenCode
+
+Open Source
+
+</td>
+
+<td align="center" width="20%">
+
+### 💻
+
+### 600+
+
+DSA Problems
+
+Solved
+
+</td>
+
+<td align="center" width="20%">
+
+### 🔀
+
+### 50+
+
+Pull Requests
+
+Reviewed
+
+</td>
+
+<td align="center" width="20%">
+
+### 🚀
+
+### 20+
+
+Contributors
+
+Mentored
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 💡 Engineering Domains
+
+<table>
+<tr>
+<td align="center">🤖 AI Engineering</td>
+<td align="center">🌐 Full Stack</td>
+<td align="center">⚡ Real-Time Systems</td>
+</tr>
+
+<tr>
+<td align="center">🛰 Distributed Systems</td>
+<td align="center">🔒 Cyber Security</td>
+<td align="center">🌍 Open Source</td>
+</tr>
+</table>
+
+---
+
+# 🛠 Technology Stack
+
+<table>
+
+<tr>
+
+<td width="50%">
 
 ## Languages
 
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,bash"/>
 
-</div>
+</td>
+
+<td width="50%">
 
 ## Frontend
 
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
 
-</div>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
 
 ## Backend
 
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
 
-</div>
+</td>
+
+<td width="50%">
 
 ## Databases
 
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,supabase"/>
 
-</div>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
 
 ## AI / ML
 
-<div align="center">
+<img src="https://img.shields.io/badge/LangGraph-black?style=for-the-badge"/>
 
-![LangGraph](https://img.shields.io/badge/LangGraph-black?style=for-the-badge)
+<img src="https://img.shields.io/badge/LangChain-green?style=for-the-badge"/>
 
-![LangChain](https://img.shields.io/badge/LangChain-green?style=for-the-badge)
+<img src="https://img.shields.io/badge/Gemini-blue?style=for-the-badge"/>
 
-![Gemini](https://img.shields.io/badge/Gemini-blue?style=for-the-badge)
+<img src="https://img.shields.io/badge/OpenAI-black?style=for-the-badge"/>
 
-![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge)
+<img src="https://img.shields.io/badge/LLaMA-purple?style=for-the-badge"/>
 
-![LLaMA](https://img.shields.io/badge/LLaMA-purple?style=for-the-badge)
+</td>
 
-![FinBERT](https://img.shields.io/badge/FinBERT-orange?style=for-the-badge)
-
-</div>
+<td width="50%">
 
 ## Infrastructure
 
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vercel"/>
 
-</div>
+</td>
+
+</tr>
+
+</table>
 
 ---
 
@@ -271,17 +355,27 @@ Full-stack communication platform built using Socket.IO.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ShubhamKumarSahu-svg&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamKumarSahu-svg&theme=tokyonight"/>
 
-<br><br>
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShubhamKumarSahu-svg&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ShubhamKumarSahu-svg&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamKumarSahu-svg&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamKumarSahu-svg&theme=tokyonight&hide_border=true" height="180"/>
 
-<br><br>
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamKumarSahu-svg&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamKumarSahu-svg&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -291,17 +385,17 @@ Full-stack communication platform built using Socket.IO.
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/cGFpGoJZcU?theme=dark&font=Fira%20Code&ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/cGFpGoJZcU?theme=dark&font=JetBrains+Mono&ext=heatmap"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Graph
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ShubhamKumarSahu-svg/ShubhamKumarSahu-svg/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/ShubhamKumarSahu-svg/ShubhamKumarSahu-svg/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -309,11 +403,51 @@ Full-stack communication platform built using Socket.IO.
 
 # 🎯 Current Goals
 
-- Build production-grade AI systems
-- Master System Design
-- Deepen Distributed Systems knowledge
-- Contribute to Open Source
-- Become a world-class software engineer
+<table>
+<tr>
+
+<td align="center">
+
+🤖
+
+### AI Systems
+
+</td>
+
+<td align="center">
+
+🏗️
+
+### System Design
+
+</td>
+
+<td align="center">
+
+🛰️
+
+### Distributed Systems
+
+</td>
+
+<td align="center">
+
+🌍
+
+### Open Source
+
+</td>
+
+<td align="center">
+
+🐳
+
+### Docker
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -321,6 +455,8 @@ Full-stack communication platform built using Socket.IO.
 
 ## ⚡ Philosophy
 
-> Build. Break. Learn. Repeat.
+### Build → Break → Learn → Repeat
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
