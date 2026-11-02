@@ -21,7 +21,7 @@
 # 👨‍💻 About Me
 
 ```cpp
-Name        : Shubham Kumar Sahu
+Name        : Shubham Sahu
 Education   : IIIT Allahabad
 Role        : Software Engineer
 Focus       : AI Systems & Full Stack Engineering
